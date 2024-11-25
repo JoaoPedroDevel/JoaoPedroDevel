@@ -1,7 +1,7 @@
 ### Hello Devs! 🖥️
 
 - 🔌💿 IT Technician 
-- 🔐🔨 Analysis and Systems Development / Web Developer / Cibersecurity
+- 🔐🔨 Analysis and Systems Development / Web Developer / Pyhton 
 - 📧 Contact : jpcc8912@gmail.com 
 
 <div style="display: inline_block"><br>
