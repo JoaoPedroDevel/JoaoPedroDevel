@@ -28,7 +28,7 @@
 ##
     
 <div> 
-  <a href="https://instagram.com/jopedro42" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/joaopedrodevel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jpcc8912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-87b07828a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <img align="right" width="500px" height="300px" style="border-radius:50px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoMnVhZWp0ZGMxb296cDhwMDBkNnllcmJmanF3YzhnODQ2OHc5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" >
