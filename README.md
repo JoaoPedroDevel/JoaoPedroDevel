@@ -1,8 +1,8 @@
 ### Hello Devs! 🖥️
 
 - 🔌💿 IT Analyst 
-- 🔐🔨 Analysis and Systems Development / Web Developer / Pyhton 
-- 📧 Contact : jpcc8912@gmail.com 
+- 🔐🔨 Analysis and Systems Development / Web Developer
+- 📧 Contact : joaopedrocarvalho.ti@gmail.com 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
