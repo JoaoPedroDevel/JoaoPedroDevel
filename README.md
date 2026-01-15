@@ -1,32 +1,39 @@
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=JoaoPedroDevel&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroDevel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+### Hello Devs! 🖥️
+
+- 🔌💿 IT Analyst 
+- 🔐🔨 Analysis and Systems Development / Web Developer
+- 📧 Contact: joaopedrocarvalho.ti@gmail.com 
+
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### ⚙️ GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroDevel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroDevel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🏆 GitHub Profile Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=JoaoPedroDevel&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=JoaoPedroDevel&column=8&theme=dracula&no-frame=false&no-bg=false" />
   </a>
 </p>
 
@@ -35,4 +42,22 @@
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
   <img src="https://profile-counter.glitch.me/JoaoPedroDevel/count.svg" alt="Visitantes" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://instagram.com/joaopedrodevel" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:joaopedrocarvalho.ti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/joão-pedro-87b07828a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <br><br>
+  
+  <img width="400px" style="border-radius:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoMnVhZWp0ZGMxb296cDhwMDBkNnllcmJmanF3YzhnODQ2OHc5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif">
 </div>
