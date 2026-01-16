@@ -29,23 +29,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=JoaoPedroDevel&column=8&theme=dracula&no-frame=false&no-bg=false" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/JoaoPedroDevel/count.svg" alt="Visitantes" />
-</div>
-
----
-
 <div align="center">
   <a href="https://instagram.com/joaopedrodevel" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
