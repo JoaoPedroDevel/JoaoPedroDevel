@@ -58,6 +58,3 @@
   </a>
   
   <br><br>
-  
-  <img width="400px" style="border-radius:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoMnVhZWp0ZGMxb296cDhwMDBkNnllcmJmanF3YzhnODQ2OHc5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif">
-</div>
